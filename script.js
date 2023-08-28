@@ -1,5 +1,3 @@
-// JavaScript code for handling form submission and data display
-
 const registrationForm = document.getElementById('registrationForm');
 const registrationData = document.getElementById('registrationData');
 
